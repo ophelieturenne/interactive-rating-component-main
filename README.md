@@ -1,7 +1,7 @@
 # Frontend Mentor - Interactive rating component
 
-![Design preview for the Interactive rating component coding challenge1](.design/desktop-design.jpg)
-![Design preview for the Interactive rating component coding challenge1](.design/desktop-thank-you-state.jpg)
+![Design preview for the Interactive rating component rating card](.design/desktop-design.jpg)
+![Design preview for the Interactive rating component thank you card](.design/desktop-thank-you-state.jpg)
 
 ## Welcome! 👋
 
