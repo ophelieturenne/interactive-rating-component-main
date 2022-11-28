@@ -88,9 +88,14 @@ button{
 }
 
 .btn:hover {
-  background-color: var(--light-grey);
+  background-color: var(--orange);
   color: var(--white);
   transition: ease 0.3s;
+}
+
+.btn:focus {
+  background-color: var(--light-grey);
+  color: var(--white);
 }
 
 .btn-submit {
