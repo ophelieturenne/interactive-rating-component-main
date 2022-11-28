@@ -1,7 +1,7 @@
 # Frontend Mentor - Interactive rating component
 
-![Design preview for the Interactive rating component coding challenge1](./home/ophelie/code/ophelieturenne/frontEnd_mentor/interactive-rating-component-main/design/solution-change1.PNG)
-![Design preview for the Interactive rating component coding challenge2](./home/ophelie/code/ophelieturenne/frontEnd_mentor/interactive-rating-component-main/design/solution-change2.PNG)
+![Design preview for the Interactive rating component coding challenge1](.design/desktop-design.jpg)
+![Design preview for the Interactive rating component coding challenge1](.design/desktop-thank-you-state.jpg)
 
 ## Welcome! 👋
 
