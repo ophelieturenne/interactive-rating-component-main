@@ -63,6 +63,7 @@ ul {
   margin-bottom: 1.7rem;
   display: flex;
   justify-content: space-between;
+
 }
 
 li {
@@ -83,6 +84,13 @@ button{
   width: 3rem;
   height: 3rem;
   color: var(--light-grey);
+  font-weight: 500;
+}
+
+.btn:hover {
+  background-color: var(--light-grey);
+  color: var(--white);
+  transition: ease 0.3s;
 }
 
 .btn-submit {
@@ -95,6 +103,13 @@ button{
   font-weight: 500;
   letter-spacing: 0.1rem;
   border-radius: 2rem;
+  font-weight: 700;
+}
+
+.btn-submit:hover {
+  background-color: var(--white);
+  color: var(--orange);
+  transition: ease 0.3s;
 }
 
 /* thank you section*/
